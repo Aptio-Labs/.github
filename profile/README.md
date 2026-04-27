@@ -19,18 +19,11 @@ Aptio Labs is an applied AI company focused on practical automation — turning 
 
 Our flagship product, **Aptio**, is an AI-powered job application assistant — available as a Chrome extension. It helps job seekers stop sending the same resume to every role and start submitting tailored, high-quality applications faster.
 
----
-
-## Open Source
-
-We believe in giving back to the developer community. When we build tools, libraries, or utilities that others can benefit from, we publish them here.
-
-Stay tuned — more public repositories coming soon.
+Visit us at [aptio.online](https://aptio.online).
 
 ---
 
 ## Get in Touch
 
-- Website: coming soon
+- Website: [aptio.online](https://aptio.online)
 - Issues & discussions: open a ticket in the relevant public repo
-
